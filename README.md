@@ -5,8 +5,6 @@
 
 - 🎓 辽宁石油化工大学
 - 📦 AI图像算法工程师 & 成都卓视智通科技有限公司算法总监
-- 📖 NLP教程：<https://dataxujing.github.io/NLP-paper/#/>
-- 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
 - :fire:DataStructurel: <https://github.com/Daipuwei/DataStructure>
 - :fire: DANN-MNIST: <https://github.com/Daipuwei/DANN-MNIST>
 - :fire:《机器学习入门：基于数学原理的Python实战》源码: <https://github.com/Daipuwei/Introduction-to-Machine-Learning-Based-on-Mathematical-Principles-with-Python>
