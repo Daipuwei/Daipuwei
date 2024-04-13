@@ -11,6 +11,8 @@
 - :fire:CGAN-mnist: <https://github.com/Daipuwei/CGAN-mnist>
 - :fire:YOLO_Deploy: <https://github.com/Daipuwei/YOLO_Deploy>
 - :fire:Object_Detection_Dataset_Utils: <https://github.com/Daipuwei/Object_Detection_Dataset_Utils>
+- 📚 我的CSDN博客（CSDN Blog） <https://daipuweiai.blog.csdn.net/>
+- 🍱 我的知乎（Zhihu） <https://www.zhihu.com/people/daipuweiai>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Daipuwei&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
